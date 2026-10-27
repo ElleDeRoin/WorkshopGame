@@ -1,0 +1,544 @@
+﻿# Game Arabic translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-10-07 13:20\n"
+"PO-Revision-Date: 2025-10-07 13:20\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+
+#. Key:	0E6F2F33442EF03759C01E82B49C875A
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/BP_TextSwitcher.BP_TextSwitcher_C:TextRender_GEN_VARIABLE.Text
+#: /Game/DemoTemplate/_Core/DevCom/BP_TextSwitcher.BP_TextSwitcher_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",0E6F2F33442EF03759C01E82B49C875A"
+msgid "Welcome to Unreal Engine 5! This level will guide you\r\n through some of the basics of the engine.\r\n\r\nHold the right mouse button and use W,A,S, D to move around the level \r\nwhile using the mouse to look.\r\nPress the green play button to start the game.\r\n"
+msgstr "أهلًا بك في محرّك Unreal Engine 5! سترشدك هذه المرحلة\n إلى بعض أساسيات المحرك.\n\nاضغط باستمرار على زر الماوس الأيمن واستخدم أزرار W وA وS وD للتحرك عبر"
+" المرحلة \nأثناء استخدام الماوس للتحكّم في اتجاه النظر.\nاضغط على الزر الأخضر لبدء اللعبة.\r\n"
+
+#. Key:	69496AA644F8C038B1E426A50AD21D63
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/BP_TextSwitcher.Default__BP_TextSwitcher_C.In Game Text
+#: /Game/DemoTemplate/_Core/DevCom/BP_TextSwitcher.Default__BP_TextSwitcher_C.In Game Text
+msgctxt ",69496AA644F8C038B1E426A50AD21D63"
+msgid "Hello"
+msgstr "مرحبًا"
+
+#. Key:	07CE9EA847CA5C325C9BB6A40AE53EF7
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/BP_Titles.BP_Titles_C:IndexText_GEN_VARIABLE.Text
+#: /Game/DemoTemplate/_Core/DevCom/BP_Titles.BP_Titles_C:IndexText_GEN_VARIABLE.Text
+msgctxt ",07CE9EA847CA5C325C9BB6A40AE53EF7"
+msgid "1/15"
+msgstr "1/15"
+
+#. Key:	DF4A3CBC4ECF7F7D56A03CA636671154
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/BP_Titles.BP_Titles_C:TextRender_GEN_VARIABLE.Text
+#: /Game/DemoTemplate/_Core/DevCom/BP_Titles.BP_Titles_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",DF4A3CBC4ECF7F7D56A03CA636671154"
+msgid "Title"
+msgstr "العنوان"
+
+#. Key:	Animation
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Animation"
+msgid "Unreal offers a wide array of character animation tools. \r\nYou can create rigs, skin, and animate directly in engine,\r\nas well as create complex logic to blend animations. "
+msgstr "يُقدّم Unreal مجموعة واسعة من أدوات تحريك الشخصيات. \nيمكنك إنشاء الهياكل والبشرة والتحريك داخل المُحرّك مباشرة،\nبالإضافة إلى إنشاء منطق معقّد لمزج الحركات."
+" "
+
+#. Key:	Atmos
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Atmos"
+msgid "Environment lighting and atmosphere is controlled by multiple actors: \r\n- A directional light, which simulates light coming from the sun.\r\n- A sky light, which adds base ambient light.\r\n- A sky atmosphere, which controls the ambient colour of the sky.\r\n\r\nWhile editing, you can change the sun's angle by holding\r\nCtrl+L and moving the mouse. "
+msgstr "يتم التحكم في إضاءة البيئة والأجواء من خلال كائنات متعددة: \n- ضوء اتجاهي، يحاكي الضوء القادم من الشمس.\n- ضوء السماء، الذي يضيف إضاءة محيطية أساسية.\n-"
+" جو السماء، الذي يتحكم في لون السماء المحيط.\n\nأثناء التحرير، يمكنك تغيير زاوية الشمس من خلال الضغط باستمرار على\nCtrl+L وتحريك الماوس. "
+
+#. Key:	Blueprint
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Blueprint"
+msgid "Blueprint is a visual scripting language \r\nthat you can use to create logic and manage events,\r\nlike this switch that unlocks the door.\r\n\r\nFor a challenge: see if you can figure out how to\r\nmake the light above the door change color the\r\nsame way the other lights do."
+msgstr "الخطة عبارة عن لغة برمجة نصية مرئية \nيمكنك استخدامها لإنشاء المنطق وإدارة الأحداث،\nمثل هذا المفتاح الذي يفتح الباب.\n\nكتحدٍ: حاول أن تكتشف كيفية\nتغيير"
+" لون الضوء الموجود فوق الباب\nبنفس الطريقة التي تتغير بها الأضواء الأخرى."
+
+#. Key:	ContentDrawer
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,ContentDrawer"
+msgid "You can add new objects to the world from the\r\nContent Drawer in the bottom left corner.\r\n\r\nThere are some sample meshes in the folder:\r\nContent / LevelPrototyping / Meshes\r\n \r\nTry dragging some in so you can get across this gap. "
+msgstr "يمكنك إضافة أغراض جديدة إلى العالم من\nدرج المحتوى في الزاوية اليسرى السفلية.\n\nتوجد بعض الشبكات النموذجية في المجلد:\nContent / LevelPrototyping / Meshes\n"
+" \nحاول سحب بعضها حتى تتمكن من عبور هذه الفجوة. "
+
+#. Key:	Cropout
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Cropout"
+msgid "For those looking for more, check out the Cropout Sample"
+msgstr "لمن يبحثون عن المزيد، يمكنهم الاطلاع على Cropout Sample"
+
+#. Key:	DetailsPanel
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,DetailsPanel"
+msgid "Try to walk up this ramp, and you'll sink right through! \r\nIt has no collision set up.\r\n\r\nYou can use the Details panel to change settings like this. \r\nClick the ramp, then change its Collision Presets to \"BlockAll\"."
+msgstr "حاول أن تصعد هذا المنحدر، وسوف تنغمس فيه مباشرةً! \nلم يتم إعداد أي تصادم له.\n\nيمكنك استخدام لوحة التفاصيل لتغيير إعدادات مثل هذه. \nانقر على المنحدر،"
+" ثم غيّر إعدادات التصادم المسبقة إلى \"BlockAll\"."
+
+#. Key:	Escape
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Escape"
+msgid "When you're ready to move on, walk around this wall."
+msgstr "عندما تكون مستعدًا للمضي قدمًا، امشِ حول هذا الجدار."
+
+#. Key:	EscapeReminder
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,EscapeReminder"
+msgid "Press Esc to return to editing."
+msgstr "اضغط على مفتاح Esc للعودة إلى التحرير."
+
+#. Key:	Gizmo
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Gizmo"
+msgid "There are three ways you can adjust an object in the world. Select the object and then use the red, green and blue gizmo to Move, Rotate or Scale. \r\nClick the left mouse button and drag to adjust the object.\r\nObjects should only be changed while in editor. Exit using Esc Key before trying to adjust anything."
+msgstr "ثمة ثلاثُ طرقٍ يمكن من خلالها تعديل غرضٍ في العالم. حدد الغرض ثم استخدم أداة التعديل الحمراء والخضراء والزرقاء للتحريك أو التدوير أو تغيير الحجم. \nانقر"
+" بزر الماوس الأيسر واسحب لتعديل الغرض.\nينبغي عدم إجراء تغيير بالأغراض إلا أثناء وجودها في المحرر. اخرج باستخدام زر Esc قبل محاولة تعديل أي شيء."
+
+#. Key:	HowToQuitPIE
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,HowToQuitPIE"
+msgid "Now that you're playing the game in the editor, the controls\r\nchange to ones that have been set up for the game project: "
+msgstr "الآن بعد أن أصبحت تلعب اللعبة في المحرر، تتغير عناصر التحكم\nإلى تلك التي تمّ إعدادها لمشروع اللعبة: "
+
+#. Key:	Intro
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Intro"
+msgid "Welcome to Unreal Engine 5!\r\nLet's get started by learning to move around in the editor."
+msgstr "مرحبًا بك في محرّك Unreal Engine 5!\nلنبدأ بتعلم كيفية التنقل في المحرر."
+
+#. Key:	Intro2
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Intro2"
+msgid "When you're comfortable with this, start the game by pressing\r\nthe green Play button in the toolbar above this 3D viewport."
+msgstr "عند الشعور بالارتياح لذلك، ابدأ اللعبة بالضغط على\nزر التشغيل الأخضر في شريط الأدوات أعلى منفذ العرض ثلاثي الأبعاد هذا."
+
+#. Key:	Lighting
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Lighting"
+msgid "This room can get dark...\r\n\r\nWhile editing, you can place a light by holding down L and\r\nclicking the left mouse button. You can also add lights from\r\nthe Place Actors panel, or the Quick Add menu in the toolbar. \r\n\r\nTry lighting up this room!"
+msgstr "يمكن أن تُصبح هذه الغرفة مظلمة...\n\nأثناء التحرير، يُمكن وضع إضاءة من خلال الضغط باستمرار على مفتاح \"L\"\nوالنقر بزر الماوس الأيسر. يمكنك أيضًا إضافة"
+" أضواء من\nلوحة وضع الكائنات، أو من قائمة الإضافة السريعة في شريط الأدوات. \n\nحاول إضاءة هذه الغرفة!"
+
+#. Key:	Lyra
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Lyra"
+msgid "For a more advanced demo and C++ examples check out Lyra"
+msgstr "للحصول على عرض توضيحي أكثر تقدمًا وأمثلة بلغة C++‎، يُرجى مراجعة ‎Lyra‎"
+
+#. Key:	Material
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Material"
+msgid "Materials define how the surfaces of objects react to light.\r\nYou can change them or create your own in the Material Editor.\r\n\r\nClick this ball, find its blue material in the Details panel, and\r\ndouble-click its icon to start editing. Try changing its\r\nBase Color, Metallic, and Roughness settings."
+msgstr "تُحدّد المواد كيفية تفاعل أسطح الأغراض مع الضوء.\nيمكنك تغييرها أو إنشاؤها بنفسك في محرر المواد.\n\nانقر فوق هذه الكرة، وابحث عن مادتها الزرقاء في لوحة"
+" التفاصيل،\nوانقر نقرًا مزدوجًا فوق أيقونتها لبدء التحرير. حاول تغيير إعدادات\nاللون الأساسي والمعدني والخشونة لها."
+
+#. Key:	Metasounds
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Metasounds"
+msgid "You can use MetaSounds\r\nto create and control audio in\r\nreal time with precise timing.\r\n\r\nThis fork plays a procedurally made tune.\r\nTo tweak it, select the fork and change the\r\nRandom Seed setting in the Details panel."
+msgstr "يمكنك استخدام MetaSounds\nلإنشاء الصوت والتحكم فيه في\nالوقت الفعلي بدقة توقيت عالية.\n\nتعزف آلة الشوكة هذه لحنًا مُؤلَّفًا إجرائيًا.\nلتعديله، حدد الشوكة"
+" ثم غيّر\nإعداد القيمة الأوّلية العشوائية في لوحة التفاصيل."
+
+#. Key:	NavInEditor_Look
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,NavInEditor_Look"
+msgid "Hold the right mouse button \r\nand move the mouse\r\nto look around."
+msgstr "اضغط باستمرار على زر الماوس الأيمن \nوحرك الماوس\nللتحكّم في اتجاه النظر."
+
+#. Key:	NavInEditor_Move
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,NavInEditor_Move"
+msgid "Hold the right mouse button\r\nand use the W, A, S and D keys to fly."
+msgstr "اضغط على زر الماوس الأيمن باستمرار\nواستخدم الأزرار W وA وS وD للطيران."
+
+#. Key:	NavInGame_Look
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,NavInGame_Look"
+msgid "Move the mouse to look around."
+msgstr "حرك الماوس للتحكّم في اتجاه النظر."
+
+#. Key:	NavInGame_Move
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,NavInGame_Move"
+msgid "Use the W, A, S, and D keys to walk."
+msgstr "استخدم مفاتيح W، وA، وS، وD للمشي."
+
+#. Key:	Niagara
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Niagara"
+msgid "Particle systems simulate a wide range of visual effects,\r\nfrom simple bursts of sprites like this to complex fluid simulations.\r\n\r\nYou create them using the Niagara editor.\r\n\r\nClick the center of this effect, find its Niagara system asset in the\r\nDetails panel, and double-click it to edit. Try changing settings\r\nlike Spawn Count and see how it changes the effect."
+msgstr "تحاكي أنظمة الجسيمات مجموعة واسعة من المؤثرات البصرية،\nبدءًا من دفعات بسيطة من الضور النقطية مثل هذه إلى محاكاة السوائل المعقدة.\n\nيمكنك إنشاؤها باستخدام"
+" محرر Niagara.\n\nانقر فوق مركز هذا التأثير، وابحث عن أصل نظام Niagara الخاص به في\nلوحة التفاصيل، وانقر فوقه نقرًا مزدوجًا لتحريره. جرب تغيير الإعدادات\nمثل"
+" عدد مرات النشر لمعرفة كيف يُغيّر ذلك التأثير."
+
+#. Key:	Outliner
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Outliner"
+msgid "There is a hidden object blocking the way across this bridge.\r\n\r\nThe Outliner on the right lists all the objects in the world.\r\nDelete the one named \"BlockingVolume\" to clear the way."
+msgstr "ثمة غرض مخفي يسد الطريق عبر هذا الجسر.\n\nيسرد المُحدِّد على اليمين جميع الأغراض الموجودة في العالم.\nاحذف المسمى \"BlockingVolume\" لإخلاء الطريق."
+
+#. Key:	Physics
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Physics"
+msgid "Unreal offers realistic physics simulations, from simple\r\nrigid body interactions to detailed vehicle movement.\r\n\r\nTry pushing these objects around and see how they react!"
+msgstr "يقدّم Unreal عمليات المحاكاة الفيزيائية الواقعيّة، بدءًا من\nالتفاعلات البسيطة بين الأجسام الصلبة إلى حركة المركبات التفصيليّة.\n\nجرب دفع هذه الأغراض"
+" وملاحظة تفاعلها!"
+
+#. Key:	PressPlay
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,PressPlay"
+msgid "When you're done here, click Play (or press Alt+P) and move on."
+msgstr "عند الانتهاء من هذا، انقر فوق تشغيل (أو اضغط على Alt+P) لمتابعة التنفيذ."
+
+#. Key:	Samples
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Samples"
+msgid "Samples showcase engine features and show how to build\r\nfull games. You'll find them in the Launcher's Samples page.\r\n\r\nWant a simple game project to start with? Try Stack O Bot!\r\n\r\nOr feel free to just stay here for a while and continue digging\r\nin to what's in this project. Taking apart existing content is\r\nthe best way to learn how to make something Unreal!"
+msgstr "تُظهر العينات ميزات المُحرّك وتوضّح كيفية إنشاء\nألعاب كاملة. ستجدها في صفحة عينات أداة التشغيل.\n\nهل ترغب في مشروع لعبة بسيط لتبدأ به؟ جرّب Stack O Bot!\n\nأو"
+" لا تتردد في البقاء هنا لفترة من الوقت ومواصلة استكشاف\nما يتضمنه هذا المشروع. يُعدّ تفكيك المحتوى الحالي\nأفضل طريقة لتعلم كيفية صنع شيء ما في Unreal!"
+
+#. Key:	Sequencer
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Sequencer"
+msgid "Sequencer is Unreal's timeline-based animation tool for\r\ncinematics and cutscenes. You can use it to animate objects,\r\ncameras, audio, and effects, then organize and render them\r\ninto high-quality sequences.\r\n\r\nWalk over this platform to trigger a camera flythrough\r\nmade in Sequencer."
+msgstr "إنّ أداة Sequencer عبارة عن أداة الحركة القائمة على الخط الزمني في Unreal\nللمقاطع والمشاهد السينمائية. يمكنك استخدامها لتحريك الأغراض\nوالكاميرات والصوت"
+" والتأثيرات، ثم تنظيمها وعرضها\nفي تسلسلات عالية الجودة.\n\nتحرك فوق هذه المنصة لتشغيل تحليق الكاميرا\nالمصمم في Sequencer."
+
+#. Key:	StackOBot
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,StackOBot"
+msgid "For beginners who want to see what a more developed game looks like. Check out Stack O Bot"
+msgstr "للمبتدئين الذين يرغبون في رؤية ما يبدو عليه اللعبة الأكثر تطورًا. ألقِ نظرةً على Stack O Bot"
+
+#. Key:	StartingHelp
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,StartingHelp"
+msgid "At each Station"
+msgstr "عند كل محطة"
+
+#. Key:	Templates
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Templates"
+msgid "Templates give you starting points for building your own experiences.\r\n\r\nThey include pre-made assets, project settings, and sometimes\r\nadditional variants to customize their content.\r\n\r\nTo create a new project from a template, start the engine from the\r\nLauncher, or choose File > New Project from the editor's main menu."
+msgstr "توفر لك القوالب نقاط بدء لبناء تجاربك الخاصة.\n\nوتحتوي على أصول جاهزة وإعدادات المشاريع وأحيانًا متغيّرات\nإضافية لتخصيص محتواها.\n\nلإنشاء مشروع جديد"
+" من قالب، شغل المحرك من\nأداة التشغيل، أو يتم اختيار ملف > مشروع جديد من القائمة الرئيسية للمحرر."
+
+#. Key:	Transform
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,Transform"
+msgid "There are three ways you can adjust an object in the 3D world: \r\nMove (W), Rotate (E), and Scale (R).\r\n\r\nClick an object, choose a tool by pressing its key or its icon in\r\nthe toolbar at the top left, then drag its colored gizmo."
+msgstr "ثمة ثلاث طرق يمكنك من خلالها تعديل غرض في العالم ثلاثي الأبعاد: \nالتحريك (W) والتدوير (E) وتغيير الحجم (R).\n\nانقر فوق غرض، واختر أداة بالضغط على مفتاحها"
+" أو أيقونتها في\nشريط الأدوات في أعلى اليسار، ثم اسحب أداة التعديل الملونة الخاصة بها."
+
+#. Key:	TutFinder
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+#: /Game/DemoTemplate/_Core/DevCom/StrT_DevCom.StrT_DevCom
+msgctxt "StrT_DevCom,TutFinder"
+msgid "At each station in this tutorial, you'll learn about how to edit the\r\nworld and see how your changes affect the game experience.\r\n\r\nOn your left is a handy written companion. Follow along for \r\nhints and details on all the concepts you'll encounter!"
+msgstr "في كل محطة من هذا العرض التعليمي، ستتعلم كيفية تحرير\nالعالم وترى كيف تؤثر تغييراتك على تجربة اللعبة.\n\nعلى يسارك يوجد دليل مكتوب مفيد. يرجى المتابعة"
+" للحصول على \nتلميحات وتفاصيل حول جميع المفاهيم التي ستصادفها!"
+
+#. Key:	1MovingObjects
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,1MovingObjects"
+msgid "Moving Objects"
+msgstr "تحريك الأغراض"
+
+#. Key:	Animation
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Animation"
+msgid "Animation"
+msgstr "حركة"
+
+#. Key:	Atmosphere
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Atmosphere"
+msgid "Atmosphere"
+msgstr "الجو"
+
+#. Key:	Blueprint
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Blueprint"
+msgid "Blueprint"
+msgstr "خطة"
+
+#. Key:	ContentDrawer
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,ContentDrawer"
+msgid "Content Drawer"
+msgstr "درج المحتوى"
+
+#. Key:	DetailsPanel
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,DetailsPanel"
+msgid "Details Panel"
+msgstr "لوحة التفاصيل"
+
+#. Key:	lighting
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,lighting"
+msgid "Lighting"
+msgstr "الإضاءة"
+
+#. Key:	Materials
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Materials"
+msgid "Materials"
+msgstr "المواد"
+
+#. Key:	Metasounds
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Metasounds"
+msgid "Metasounds"
+msgstr "MetaSounds"
+
+#. Key:	NextSteps
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,NextSteps"
+msgid "Next Steps"
+msgstr "الخطوات التالية"
+
+#. Key:	Outliner
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Outliner"
+msgid "Outliner"
+msgstr "المُحدِّد"
+
+#. Key:	Particles
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Particles"
+msgid "Particle Effects"
+msgstr "تأثيرات الجسيمات"
+
+#. Key:	Physics
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Physics"
+msgid "Physics"
+msgstr "الفيزياء"
+
+#. Key:	Samples
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Samples"
+msgid "Samples"
+msgstr "عينات"
+
+#. Key:	Sequencer
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Sequencer"
+msgid "Sequencer"
+msgstr "Sequencer"
+
+#. Key:	Templates
+#. SourceLocation:	/Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+#: /Game/DemoTemplate/_Core/DevCom/StrT_Titles.StrT_Titles
+msgctxt "StrT_Titles,Templates"
+msgid "Templates"
+msgstr "قوالب"
+
+#. Key:	C6C12720470CBEAE8B18E3AE8F801BFC
+#. SourceLocation:	/Game/DemoTemplate/_Core/KeyboardKey/UIE_KeyboardKey.Default__UIE_KeyboardKey_C.Key
+#: /Game/DemoTemplate/_Core/KeyboardKey/UIE_KeyboardKey.Default__UIE_KeyboardKey_C.Key
+msgctxt ",C6C12720470CBEAE8B18E3AE8F801BFC"
+msgid "W"
+msgstr "W"
+
+#. Key:	CF9D474F4FAA26195D1635B3F62AAB7D
+#. SourceLocation:	/Game/DemoTemplate/_Core/KeyboardKey/UIE_KeyboardKey.UIE_KeyboardKey_C:WidgetTree.Text.Text
+#: /Game/DemoTemplate/_Core/KeyboardKey/UIE_KeyboardKey.UIE_KeyboardKey_C:WidgetTree.Text.Text
+msgctxt ",CF9D474F4FAA26195D1635B3F62AAB7D"
+msgid "U"
+msgstr "U"
+
+#. Key:	6E6B400D415178AA37A59E8D372AA84A
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1593838522.Key
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1593838522.Key
+msgctxt ",6E6B400D415178AA37A59E8D372AA84A"
+msgid "W"
+msgstr "W"
+
+#. Key:	81853CF44BC77A94CF0FBAABE7B778DC
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1602257523.Key
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1602257523.Key
+msgctxt ",81853CF44BC77A94CF0FBAABE7B778DC"
+msgid "S"
+msgstr "S"
+
+#. Key:	F5DF16DE4023B46EEC71C38AE39D2CE1
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1607016524.Key
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1607016524.Key
+msgctxt ",F5DF16DE4023B46EEC71C38AE39D2CE1"
+msgid "A"
+msgstr "A"
+
+#. Key:	24F8A21743BE49C095ACC091B680B7E0
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1610044525.Key
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3678D02_1610044525.Key
+msgctxt ",24F8A21743BE49C095ACC091B680B7E0"
+msgid "D"
+msgstr "D"
+
+#. Key:	59F6D0E24904B955FAD216A907F0E15B
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3AF9302_1338918565.Key
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3AF9302_1338918565.Key
+msgctxt ",59F6D0E24904B955FAD216A907F0E15B"
+msgid "Q"
+msgstr "Q"
+
+#. Key:	20EA51A04DE0C088ED97E19AEEF72ADC
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3AF9302_1344133566.Key
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_KeyboardKey_C_UAID_F4A475FF15A3AF9302_1344133566.Key
+msgctxt ",20EA51A04DE0C088ED97E19AEEF72ADC"
+msgid "E"
+msgstr "E"
+
+#. Key:	675906A64F2896EC059504A755E765E5
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_TextSwitcher_C_UAID_F4A475FF15A3378F02_1361906191.TextRender.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.BP_TextSwitcher_C_UAID_F4A475FF15A3378F02_1361906191.TextRender.Text
+msgctxt ",675906A64F2896EC059504A755E765E5"
+msgid "+"
+msgstr "+"
+
+#. Key:	F34D6DE84A97CB61F4FA30986C9D429B
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A30A8D02_1590537152.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A30A8D02_1590537152.NewTextRenderComponent.Text
+msgctxt ",F34D6DE84A97CB61F4FA30986C9D429B"
+msgid "Rotate"
+msgstr "تدوير"
+
+#. Key:	8BF62AC646D7992EE2EE78A65A47F248
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A30A8D02_1597314153.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A30A8D02_1597314153.NewTextRenderComponent.Text
+msgctxt ",8BF62AC646D7992EE2EE78A65A47F248"
+msgid "Scale"
+msgstr "المقياس"
+
+#. Key:	72B06FA94D1CA4D41EBA1FAE31D6E3D6
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1772723050.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1772723050.NewTextRenderComponent.Text
+msgctxt ",72B06FA94D1CA4D41EBA1FAE31D6E3D6"
+msgid "Stack O Bot"
+msgstr "Stack O Bot"
+
+#. Key:	6C48EF8B41E536611D97A292C32260AD
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1814267051.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1814267051.NewTextRenderComponent.Text
+msgctxt ",6C48EF8B41E536611D97A292C32260AD"
+msgid "Cropout"
+msgstr "Cropout"
+
+#. Key:	E73470D24A81114B04017288C8127C8B
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1820822052.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1820822052.NewTextRenderComponent.Text
+msgctxt ",E73470D24A81114B04017288C8127C8B"
+msgid "LYRA"
+msgstr "LYRA"
+
+#. Key:	D31851814D8BF684178F12A11217BDE1
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1890618053.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1890618053.NewTextRenderComponent.Text
+msgctxt ",D31851814D8BF684178F12A11217BDE1"
+msgid "City Sample"
+msgstr "City Sample"
+
+#. Key:	2C35AAB14BFD422A2FE66782721E6017
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1911038054.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1911038054.NewTextRenderComponent.Text
+msgctxt ",2C35AAB14BFD422A2FE66782721E6017"
+msgid "Game Animation Sample"
+msgstr "عينة حركة اللعبة"
+
+#. Key:	470825C542257C9908E959AAAB881145
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1929182055.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3409402_1929182055.NewTextRenderComponent.Text
+msgctxt ",470825C542257C9908E959AAAB881145"
+msgid "Hillside Sample"
+msgstr "عينة منحدر التل"
+
+#. Key:	734A4E634366D0DDD8EE178C31D1813A
+#. SourceLocation:	/Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3E68902_1856736658.NewTextRenderComponent.Text
+#: /Game/DemoTemplate/_Core/Lvl_IntroRoom.Lvl_IntroRoom:PersistentLevel.TextRenderActor_UAID_F4A475FF15A3E68902_1856736658.NewTextRenderComponent.Text
+msgctxt ",734A4E634366D0DDD8EE178C31D1813A"
+msgid "Move"
+msgstr "التحرك"
+
+#. Key:	A56088674827EC12660AE49B08345AA1
+#. SourceLocation:	/Game/DemoTemplate/_Core/UI_InGame.UI_InGame_C:WidgetTree.TextBlock_23.Text
+#: /Game/DemoTemplate/_Core/UI_InGame.UI_InGame_C:WidgetTree.TextBlock_23.Text
+msgctxt ",A56088674827EC12660AE49B08345AA1"
+msgid "Game is running.\r\nPress \"Esc\" key to return to Editor"
+msgstr "اللعبة قيد التشغيل.\nاضغط على مفتاح \"Esc\" للعودة إلى المحرر."
+
+#. Key:	1FA051F94C1DE87A50CC54983EC4CE9E
+#. SourceLocation:	/Game/DemoTemplate/Transform/BP_GizmoDemo.BP_GizmoDemo_C:ExecuteUbergraph_BP_GizmoDemo [Script Bytecode]
+#: /Game/DemoTemplate/Transform/BP_GizmoDemo.BP_GizmoDemo_C:ExecuteUbergraph_BP_GizmoDemo [Script Bytecode]
+msgctxt ",1FA051F94C1DE87A50CC54983EC4CE9E"
+msgid "R"
+msgstr "R"
+
+#. Key:	8BC94DB44CD4068B3D6B36976D905A15
+#. SourceLocation:	/Game/DemoTemplate/Transform/BP_GizmoDemo.BP_GizmoDemo_C:ExecuteUbergraph_BP_GizmoDemo [Script Bytecode]
+#: /Game/DemoTemplate/Transform/BP_GizmoDemo.BP_GizmoDemo_C:ExecuteUbergraph_BP_GizmoDemo [Script Bytecode]
+msgctxt ",8BC94DB44CD4068B3D6B36976D905A15"
+msgid "E"
+msgstr "E"
+
+#. Key:	AE21E6344E4C69A77C8FF3825A199620
+#. SourceLocation:	/Game/DemoTemplate/Transform/BP_GizmoDemo.BP_GizmoDemo_C:ExecuteUbergraph_BP_GizmoDemo [Script Bytecode]
+#: /Game/DemoTemplate/Transform/BP_GizmoDemo.BP_GizmoDemo_C:ExecuteUbergraph_BP_GizmoDemo [Script Bytecode]
+msgctxt ",AE21E6344E4C69A77C8FF3825A199620"
+msgid "W"
+msgstr "W"
+
